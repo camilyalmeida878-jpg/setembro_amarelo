@@ -6,7 +6,7 @@ const mensagens = [
   "Sempre existe esperança 🌈"
   ];
 
-document.getElementByid("btnMensagem").addEventlistener("click", () => {
- const aleatoria = mensagem[Math.random() * mensagens.length)];
- document.getElementByid("mensagem").innerText = aleatoria;
+document.getElementById("btnMensagem").addEventListener("click", () => {
+ const aleatoria = mensagens[Math.floor(Math.random() * mensagens.length)];
+ document.getElementById("mensagem").innerText = aleatoria;
 });
