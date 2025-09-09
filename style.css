@@ -8,7 +8,7 @@
     }
 
     header {
-      background-color: #f4d083f;
+      background-color: #f4d083;
       padding: 20px;
       color: #333;
     }
@@ -24,11 +24,11 @@
 
     button {
       background: #f39c12;
-      color:white:
+      color: white;
       border: none;
       padding: 15px 25px;
       border-radius: 10px;
-      font-size: lem;
+      font-size: 1em;
       cursor: pointer;
       transition:0.3s;
     }
@@ -40,7 +40,7 @@ button:hover {
     mensagem {
       margin-top: 15px;
       font-style: italic;
-      color: #444
+      color: #444;
       font-size: 1.2em;
     }
 
