@@ -2,13 +2,13 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #FFFACD;
+  background: #FFF9E6;
   color: #333;
   text-align: center;
 }
 
 header {
-  background: #FFD700;
+  background: #F6D55C;
   padding: 20px;
   color: #333;
 }
@@ -30,7 +30,7 @@ button {
 }
 
 button:hover {
-  background: #FF8C00;
+  background: #C49A20;
 }
 
 .mensagem {
@@ -41,7 +41,7 @@ button:hover {
 }
 
 footer {
-  background: #FFD700;
+  background: #F6D55C;
   padding: 10px;
   margin-top: 30px;
 }
