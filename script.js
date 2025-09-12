@@ -13,6 +13,7 @@ const mensagens = [
   "Você não está sozinho. 🤗"
   "Falar salva vidas. 🧡"
   "Amar é escutar sem julgar. 👂"
+  "Seja luz na vida de alguém. ✨"
   ];
 
 document.getElementById("btnMensagem").addEventListener("click", () => {
