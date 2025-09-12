@@ -2,15 +2,15 @@ body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #FFF9E6;
+  background: #FFF8DC; 
   color: #333;
   text-align: center;
 }
 
 header {
-  background: #F6D55C;
+  background: #FFC107; 
   padding: 20px;
-  color: #333;
+  color: #212121; 
 }
 
 h1 {
@@ -19,7 +19,7 @@ h1 {
 }
 
 button {
-  background: #FFA500;
+  background: #FFB300; 
   color: black;
   border: none;
   padding: 15px 25px;
@@ -30,18 +30,19 @@ button {
 }
 
 button:hover {
-  background: #C49A20;
+  background: #FFA000; 
 }
 
 .mensagem {
   margin-top: 15px;
   font-style: italic;
-  color: #444;
+  color: #555;
   font-size: 1.2em;
 }
 
 footer {
-  background: #F6D55C;
+  background: #FFC107; 
   padding: 10px;
   margin-top: 30px;
+  color: #212121;
 }
