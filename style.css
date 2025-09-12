@@ -2,13 +2,13 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background: #DAA520;
+      background: #FFFACD;
       color: #333;
       text-align: center;
     }
 
     header {
-      background: #f4d03f;
+      background: #FFD700;
       padding: 20px;
       color: #333;
     }
@@ -23,7 +23,7 @@
     }
 
     button {
-      background: #f39c12;
+      background: #FFD700;
       color: Goldenrod;
       border: none;
       padding: 15px 25px;
@@ -34,7 +34,7 @@
     }
 
 button:hover {
-  background: #e67e22;
+  background: #FFC300;
 }
 
     mensagem {
@@ -45,7 +45,7 @@ button:hover {
     }
 
 footer{
-      background: #f4d03f;
+      background: #FFD700;
       padding: 10px;
       margin-top: 30px;
     }
