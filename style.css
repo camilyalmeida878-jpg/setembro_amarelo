@@ -23,7 +23,7 @@
     }
 
     button {
-      background: #E6B800;
+      background: #FFA500;
       color: Goldenrod;
       border: none;
       padding: 15px 25px;
@@ -34,7 +34,7 @@
     }
 
 button:hover {
-  background:  #CC9900;
+  background:  #FF8C00;
 }
 
     mensagem {
